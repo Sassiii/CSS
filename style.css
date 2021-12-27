@@ -1,0 +1,38 @@
+header {
+  background-color: red;
+}
+ul li {
+  display: inline;
+  margin: 40px;
+}
+.about {
+  background-color: darkgray;
+  font-style: bold;
+  letter-spacing: 4px;
+  word-spacing: 4px;
+}
+#first {
+  font-size: 20px;
+  font-style: italic;
+
+  border: 5px dotted orange;
+}
+h1 {
+  height: 80px;
+  width: 50%;
+  font-family: "Roboto";
+  font-size: 22px;
+  background-color: darkgray;
+}
+h5 {
+  letter-spacing: 4px;
+  word-spacing: 4px;
+  font-size: 50px;
+  background-color: darkgray;
+}
+div {
+  background-color: red;
+}
+form {
+  background-color: darkgray;
+}
